@@ -9,3 +9,7 @@ ADELIA GITHA NAVEEZHA HERMAWAN NIM:2509116110
 Di sini, pengguna diminta untuk memasukkan username dan password.
 Jika data yang dimasukkan benar, program akan menampilkan pesan sambutan sesuai dengan role pengguna (Manager atau Karyawan).
 Jika data yang dimasukkan salah, program akan memberikan peringatan "Username atau password salah!" dan pengguna diminta login kembali.
+<img width="1636" height="657" alt="Screenshot 2025-09-28 215014" src="https://github.com/user-attachments/assets/f352c8e3-4b3d-4231-a67a-9e69cb773e98" />
+
+MENU MANAGER:
+
